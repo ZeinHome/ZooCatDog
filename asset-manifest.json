@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/ZooCatDog/static/css/main.5d7ca4f4.css",
+    "main.js": "/ZooCatDog/static/js/main.521bbcf9.js",
+    "static/media/careProducts.jpg": "/ZooCatDog/static/media/careProducts.d7fc95df91fcf661672a.jpg",
+    "static/media/stock.jpg": "/ZooCatDog/static/media/stock.373a28f01f042c3e7cd4.jpg",
+    "static/media/fish.jpg": "/ZooCatDog/static/media/fish.0ce8a49d849fa6eb69c2.jpg",
+    "static/media/parrot.jpg": "/ZooCatDog/static/media/parrot.919e378509da02debb88.jpg",
+    "static/media/shampoo.jpg": "/ZooCatDog/static/media/shampoo.4b28351678e657e4630f.jpg",
+    "static/media/hero2.jpg": "/ZooCatDog/static/media/hero2.205b0024effa4ee4e722.jpg",
+    "static/media/hero1.jpg": "/ZooCatDog/static/media/hero1.4efa01a2f987a1c49d6c.jpg",
+    "static/media/hero.jpg": "/ZooCatDog/static/media/hero.e02c314a2864dab103b4.jpg",
+    "static/media/hero3.png": "/ZooCatDog/static/media/hero3.a22f5e70a50385979443.png",
+    "static/media/rodents.jpg": "/ZooCatDog/static/media/rodents.97621093d56533ef8bce.jpg",
+    "static/media/logo.svg": "/ZooCatDog/static/media/logo.7e0dfd6fdeb9db04d8d9dd82b5275b1d.svg",
+    "static/media/cell.jpg": "/ZooCatDog/static/media/cell.b43c0368f67b06b65fb8.jpg",
+    "static/media/Сухой-корм-гипоаллергенный-для-взрослых-собак-всех-пород-Клуб-4-четыре-лапы-Актив-CLUB-4-PAWS-PREMIUM-ягненок-и-рис-400x400.jpg": "/ZooCatDog/static/media/Сухой-корм-гипоаллергенный-для-взрослых-собак-всех-пород-Клуб-4-четыре-лапы-Актив-CLUB-4-PAWS-PREMIUM-ягненок-и-рис-400x400.7c9421c47fa2388c6345.jpg",
+    "static/media/bulk_food_ukr.jpg": "/ZooCatDog/static/media/bulk_food_ukr.44e4fc648b7148568dc7.jpg",
+    "static/media/live_shop_ukr.jpg": "/ZooCatDog/static/media/live_shop_ukr.d92ef193fffcc4292f35.jpg",
+    "static/media/puppy.jpg": "/ZooCatDog/static/media/puppy.5e27f3accafd60ae1e21.jpg",
+    "static/media/plates.jpg": "/ZooCatDog/static/media/plates.4c13199265c92b86b536.jpg",
+    "static/media/terrariumAnimals.jpg": "/ZooCatDog/static/media/terrariumAnimals.46d70406c30c9b89655d.jpg",
+    "static/media/chameleon.svg": "/ZooCatDog/static/media/chameleon.2ebf7fe9a8a2609c11ca627ad4f2b580.svg",
+    "static/media/megaphone.svg": "/ZooCatDog/static/media/megaphone.88fb460c89228fbc6aa1ca7843494318.svg",
+    "static/media/rat.svg": "/ZooCatDog/static/media/rat.74033c3d6e8de18be31b357c4d72e640.svg",
+    "static/media/dog.svg": "/ZooCatDog/static/media/dog.f08920bd49d515713c53ded8d75dbb5d.svg",
+    "static/media/fish.svg": "/ZooCatDog/static/media/fish.2cd266feee2ccebf59c1e9022b2cf92b.svg",
+    "static/media/cat.svg": "/ZooCatDog/static/media/cat.2f68092ae765e16dadb195ff8401252c.svg",
+    "static/media/bird.svg": "/ZooCatDog/static/media/bird.9df4ba5922da86f1e671c0a9000362da.svg",
+    "static/media/slick.svg": "/ZooCatDog/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ZooCatDog/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ZooCatDog/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ZooCatDog/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ZooCatDog/index.html",
+    "main.5d7ca4f4.css.map": "/ZooCatDog/static/css/main.5d7ca4f4.css.map",
+    "main.521bbcf9.js.map": "/ZooCatDog/static/js/main.521bbcf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7ca4f4.css",
+    "static/js/main.521bbcf9.js"
+  ]
+}
