@@ -51,31 +51,31 @@ export const GoTop = styled.button`
 export const App = () => {
   const isWide = useMedia('(min-width: 1200px)');
 
-  const BtnScrollToTop = useRef();
+  // const BtnScrollToTop = useRef();
 
-  const showLog = message => {
-    if (message.scrollY >= 2700 && BtnScrollToTop.current !== undefined) {
-      BtnScrollToTop.current.style.opacity = 1;
-    } else if (
-      message.scrollY <= 2700 &&
-      BtnScrollToTop.current !== undefined
-    ) {
-      BtnScrollToTop.current.style.opacity = 0;
-    } else {
-      return;
-    }
-  };
+  // const showLog = message => {
+  //   if (message.scrollY >= 2700 && BtnScrollToTop.current !== undefined) {
+  //     BtnScrollToTop.current.style.opacity = 1;
+  //   } else if (
+  //     message.scrollY <= 2700 &&
+  //     BtnScrollToTop.current !== undefined
+  //   ) {
+  //     BtnScrollToTop.current.style.opacity = 0;
+  //   } else {
+  //     return;
+  //   }
+  // };
 
-  window.onscroll = () => {
-    const hasScrolling = !(window.scrollX === 0 && window.scrollY === 0);
-    showLog({
-      hasScrolling,
-      scrollY: Math.round(scrollY),
-    });
-  };
-  if (scrollX === 0 && scrollY === 0) {
-    window.onscroll();
-  }
+  // window.onscroll = () => {
+  //   const hasScrolling = !(window.scrollX === 0 && window.scrollY === 0);
+  //   showLog({
+  //     hasScrolling,
+  //     scrollY: Math.round(scrollY),
+  //   });
+  // };
+  // if (scrollX === 0 && scrollY === 0) {
+  //   window.onscroll();
+  // }
 
   return (
     <>
@@ -95,9 +95,9 @@ export const App = () => {
         <Route path="*" element={<ErrorPage />} />
       </Routes>
       <Footer />
-      <GoTop ref={BtnScrollToTop} onClick={scrollToTop}>
+      {/* <GoTop ref={BtnScrollToTop} onClick={scrollToTop}>
         <FaArrowUp size={32} color="blue" />
-      </GoTop>
+      </GoTop> */}
     </>
   );
 };
