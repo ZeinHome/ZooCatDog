@@ -1,4 +1,4 @@
-import corm from '../../images/poducts/Сухой-корм-гипоаллергенный-для-взрослых-собак-всех-пород-Клуб-4-четыре-лапы-Актив-CLUB-4-PAWS-PREMIUM-ягненок-и-рис-400x400.jpg';
+// import corm from '../../images/poducts/Сухой-корм-гипоаллергенный-для-взрослых-собак-всех-пород-Клуб-4-четыре-лапы-Актив-CLUB-4-PAWS-PREMIUM-ягненок-и-рис-400x400.jpg';
 import parrot from '../../images/showcase/parrot.jpg';
 import puppy from '../../images/showcase/puppy.jpg';
 import plates from '../../images/showcase/plates.jpg';

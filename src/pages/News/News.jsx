@@ -1,6 +1,6 @@
 import { Container, Section, Item } from './News.styled';
 
-export default function News({}) {
+export default function News() {
   return (
     <Section>
       <Container>

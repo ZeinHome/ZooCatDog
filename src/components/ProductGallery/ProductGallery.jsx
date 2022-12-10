@@ -1,4 +1,5 @@
 import { GiScales } from 'react-icons/gi';
+import { MdDoneOutline } from 'react-icons/md';
 import corm from '../../images/poducts/Сухой-корм-гипоаллергенный-для-взрослых-собак-всех-пород-Клуб-4-четыре-лапы-Актив-CLUB-4-PAWS-PREMIUM-ягненок-и-рис-400x400.jpg';
 
 import {
@@ -143,7 +144,6 @@ const obj = [
   },
 ];
 
-import { MdDoneOutline } from 'react-icons/md';
 export default function ProductGallery({ title }) {
   return (
     <Section>
